@@ -1,0 +1,20 @@
+{
+  "baseTodo": {
+    "id": 1,
+    "title": "Item 1",
+    "completed": false
+  },
+  "todosList": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ],
+  "inputs": {
+    "item1": "Item 1",
+    "item2": "Item 2",
+    "editedItem": "Edited Item",
+    "cancelEdit": "Cancel Edit",
+    "newTitle": "New Title",
+    "newKeyboardItem": "New Keyboard Item"
+  }
+}
